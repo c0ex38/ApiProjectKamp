@@ -6,6 +6,6 @@ namespace ApiProjectKamp.WebApi.Dtos.ProductDtos
         public string ProductDescription { get; set; }
         public decimal Price { get; set; }
         public string ImageUrl { get; set; }
-        public int? CategoryId { get; set; }
+        public int CategoryId { get; set; }
     }
 }

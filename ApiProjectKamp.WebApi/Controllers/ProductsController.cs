@@ -4,6 +4,7 @@ using ApiProjectKamp.WebApi.Entities;
 using ApiProjectKamp.WebApi.Context;
 using AutoMapper;
 using ApiProjectKamp.WebApi.Dtos.ProductDtos;
+using Microsoft.EntityFrameworkCore;
 
 namespace ApiProjectKamp.WebApi.Controllers
 {
@@ -86,6 +87,11 @@ namespace ApiProjectKamp.WebApi.Controllers
             return Ok(new { message = "Ürün başarıyla eklendi", data = value });
         }
 
-
+        [HttpGet("ProductListWithCategory")]
+        public IActionResult ProductListWithCategory()
+        {
+            var value = _context.Products.Include(x => x.Category).ToList();
+            return Ok(_mapper.Map<List<ResultProductWithCategoryDto>>(value));
+        }
     }
 }
