@@ -214,3 +214,9 @@
 /Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebApi/bin/Debug/net10.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
 /Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebApi/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
 /Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebApi/bin/Debug/net10.0/runtimes/win/lib/net9.0/System.Windows.Extensions.dll
+/Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebApi/obj/Debug/net10.0/ApiProjectKamp.WebApi.sourcelink.json
+/Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebApi/bin/Debug/net10.0/AutoMapper.dll
+/Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebApi/bin/Debug/net10.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebApi/bin/Debug/net10.0/FluentValidation.dll
+/Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebApi/bin/Debug/net10.0/FluentValidation.AspNetCore.dll
+/Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebApi/bin/Debug/net10.0/FluentValidation.DependencyInjectionExtensions.dll
