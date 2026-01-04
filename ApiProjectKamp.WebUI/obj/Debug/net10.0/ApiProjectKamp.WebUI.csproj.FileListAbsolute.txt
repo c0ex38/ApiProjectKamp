@@ -166,3 +166,6 @@
 /Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebUI/obj/Debug/net10.0/compressed/bhv5978jy2-{0}-gbvw29u8ko-gbvw29u8ko.gz
 /Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebUI/obj/Debug/net10.0/compressed/lfwip3bir4-{0}-y4k2fgdnr4-y4k2fgdnr4.gz
 /Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebUI/obj/Debug/net10.0/compressed/phe3b1ke59-{0}-irqtguz4t2-irqtguz4t2.gz
+/Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebUI/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebUI/obj/Debug/net10.0/ApiProjectKamp.WebUI.csproj.AssemblyReference.cache
+/Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebUI/obj/Debug/net10.0/ApiProje.EA9C2B7C.Up2Date
