@@ -16386,6 +16386,23 @@
         }
       },
       {
+        "HashCode": 1994590975,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated___FooterDefaultComponentPartialViewComponentTagHelper",
+        "AssemblyName": "ApiProjectKamp.WebUI",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:_footer-default-component-partial"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated___FooterDefaultComponentPartialViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "_FooterDefaultComponentPartial"
+        }
+      },
+      {
         "HashCode": -1450421309,
         "Kind": "Components.Bind",
         "Name": "Bind",
@@ -20141,6 +20158,11 @@
     {
       "FilePath": "/Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebUI/Views/Shared/Components/_EventDefaultComponentPartial/Default.cshtml",
       "TargetPath": "Views\\Shared\\Components\\_EventDefaultComponentPartial\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/cagriozay/Projects/ApiProjectKamp/ApiProjectKamp.WebUI/Views/Shared/Components/_FooterDefaultComponentPartial/Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\_FooterDefaultComponentPartial\\Default.cshtml",
       "FileKind": "mvc"
     }
   ],
